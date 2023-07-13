@@ -17,6 +17,6 @@ bubbleSort = (array) => {
   console.log(array.join(' '))
   return array
 }
-#edit
+
 const numbers = [8, 5, 6, 9, 3, 1, 4, 2, 7, 10]
 bubbleSort(numbers)
